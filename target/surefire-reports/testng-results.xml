@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="64" started-at="2021-02-21T19:11:54 IST" finished-at="2021-02-21T19:11:54 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="64" started-at="2021-02-21T19:11:54 IST" finished-at="2021-02-21T19:11:54 IST">
+      <class name="MavenOne.TestingMaven.Day2Test">
+        <test-method status="PASS" signature="BusLoanMobileDay2()[pri:0, instance:MavenOne.TestingMaven.Day2Test@146ba0ac]" name="BusLoanMobileDay2" duration-ms="8" started-at="2021-02-21T19:11:54 IST" finished-at="2021-02-21T19:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BusLoanMobileDay2 -->
+        <test-method status="PASS" signature="BusLoanWebDay2()[pri:0, instance:MavenOne.TestingMaven.Day2Test@146ba0ac]" name="BusLoanWebDay2" duration-ms="0" started-at="2021-02-21T19:11:54 IST" finished-at="2021-02-21T19:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BusLoanWebDay2 -->
+        <test-method status="PASS" signature="CarLoanMobileDay2()[pri:0, instance:MavenOne.TestingMaven.Day2Test@146ba0ac]" name="CarLoanMobileDay2" duration-ms="0" started-at="2021-02-21T19:11:54 IST" finished-at="2021-02-21T19:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanMobileDay2 -->
+        <test-method status="PASS" signature="CarLoanWebDay2()[pri:0, instance:MavenOne.TestingMaven.Day2Test@146ba0ac]" name="CarLoanWebDay2" duration-ms="0" started-at="2021-02-21T19:11:54 IST" finished-at="2021-02-21T19:11:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanWebDay2 -->
+      </class> <!-- MavenOne.TestingMaven.Day2Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

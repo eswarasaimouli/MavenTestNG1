@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="12" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="182" started-at="2021-02-16T07:49:32 IST" finished-at="2021-02-16T07:49:32 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="182" started-at="2021-02-16T07:49:32 IST" finished-at="2021-02-16T07:49:32 IST">
+      <class name="MavenOne.TestingMaven.Day2Test">
+        <test-method status="PASS" signature="CarLoanMobileDay2()[pri:0, instance:MavenOne.TestingMaven.Day2Test@79be0360]" name="CarLoanMobileDay2" duration-ms="2" started-at="2021-02-16T07:49:32 IST" finished-at="2021-02-16T07:49:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanMobileDay2 -->
+        <test-method status="PASS" signature="CarLoanWebDay2()[pri:0, instance:MavenOne.TestingMaven.Day2Test@79be0360]" name="CarLoanWebDay2" duration-ms="4" started-at="2021-02-16T07:49:32 IST" finished-at="2021-02-16T07:49:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanWebDay2 -->
+      </class> <!-- MavenOne.TestingMaven.Day2Test -->
+      <class name="MavenOne.TestingMaven.Day1Test">
+        <test-method status="PASS" signature="CarLoanMobileDay1()[pri:0, instance:MavenOne.TestingMaven.Day1Test@6321e813]" name="CarLoanMobileDay1" duration-ms="12" started-at="2021-02-16T07:49:32 IST" finished-at="2021-02-16T07:49:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanMobileDay1 -->
+        <test-method status="PASS" signature="CarLoanWebDay1()[pri:0, instance:MavenOne.TestingMaven.Day1Test@6321e813]" name="CarLoanWebDay1" duration-ms="2" started-at="2021-02-16T07:49:32 IST" finished-at="2021-02-16T07:49:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanWebDay1 -->
+      </class> <!-- MavenOne.TestingMaven.Day1Test -->
+      <class name="MavenOne.TestingMaven.Day3Test">
+        <test-method status="PASS" signature="CarLoanMobileDay3()[pri:0, instance:MavenOne.TestingMaven.Day3Test@22a67b4]" name="CarLoanMobileDay3" duration-ms="4" started-at="2021-02-16T07:49:32 IST" finished-at="2021-02-16T07:49:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanMobileDay3 -->
+        <test-method status="PASS" signature="CarLoanWebDay3()[pri:0, instance:MavenOne.TestingMaven.Day3Test@22a67b4]" name="CarLoanWebDay3" duration-ms="3" started-at="2021-02-16T07:49:32 IST" finished-at="2021-02-16T07:49:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CarLoanWebDay3 -->
+      </class> <!-- MavenOne.TestingMaven.Day3Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="MavenOne.TestingMaven.Day1Test">
+				<methods>
+					<include name="Car.*" />
+				</methods>
+			</class>
+			<class name="MavenOne.TestingMaven.Day2Test">
+				<methods>
+					<include name="Car.*" />
+				</methods>
+			</class>
+			<class name="MavenOne.TestingMaven.Day3Test">
+				<methods>
+					<include name="Car.*" />
+				</methods>
+
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
