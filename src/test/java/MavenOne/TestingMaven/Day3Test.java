@@ -6,7 +6,7 @@ public class Day3Test {
 
 	@Test
 	public void CarLoanMobileDay3() {
-		System.out.println("CarLoanMobileDay3");
+		System.out.println("CarLoanMobileDay3+");
 	}
 	@Test
 	public void CarLoanWebDay3() {
