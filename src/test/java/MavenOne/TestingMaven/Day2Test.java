@@ -10,6 +10,7 @@ public class Day2Test {
 	@Test
 	public void CarLoanMobileDay2() {
 		System.out.println("CarLoanMobileDay2");
+		System.out.println("CarLoanMobileDay23");
 	}
 	@Test
 	public void CarLoanWebDay2() {
