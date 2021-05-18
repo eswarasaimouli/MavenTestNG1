@@ -2,7 +2,7 @@ package MavenOne.TestingMaven;
 
 import org.testng.annotations.Test;
 
-public class Day3Test {
+public class Day4Test {
 
 	@Test
 	public void CarLoanMobileDay3() {
